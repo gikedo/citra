@@ -158,7 +158,7 @@ static const std::array<const char*, 187> country_names = {
     QT_TRANSLATE_NOOP("ConfigureSystem", "Monaco"),
     QT_TRANSLATE_NOOP("ConfigureSystem", "Taiwan"),
     "", // 120-129
-    "",
+    QT_TRANSLATE_NOOP("ConfigureSystem", "Nigeria"),
     "",
     "",
     "",
